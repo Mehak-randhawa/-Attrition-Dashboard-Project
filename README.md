@@ -5,6 +5,13 @@ To develop an interactive **HR dashboard** in **Power BI** that provides insight
 
 ---
 
+## 📂 Data
+- Source: CSV file with 1470 records
+- Fields: Age, Gender, Role, Department, Income, Education, Attrition, Satisfaction, etc.
+- Tool: Power BI Desktop
+
+---
+
 ## 📊 Key Features
 
 ### ✍️ Workforce Overview
@@ -36,14 +43,8 @@ To develop an interactive **HR dashboard** in **Power BI** that provides insight
 
 ---
 
-## 📂 Data
-- Source: CSV file with 1470 records
-- Fields: Age, Gender, Role, Department, Income, Education, Attrition, Satisfaction, etc.
-- Tool: Power BI Desktop
 
----
-
-## 📸 Sample Dashboards
+## 📸 Dashboards
 
 ### 🎯 HR Overview Dashboard  
 ![HR Overview Dashboard](hr_overview.png)
